@@ -1,3 +1,9 @@
+# SourceMod
+compile.dat
+compile.exe
+spcomp.exe
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -13,6 +19,8 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.dat
+*.exe
 
 # Windows shortcuts
 *.lnk
